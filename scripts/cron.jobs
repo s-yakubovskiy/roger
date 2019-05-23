@@ -1,0 +1,3 @@
+0	4	*	*	5	/root/tmp/scripts/update_script.sh
+@reboot				/root/tmp/scripts/update_script.sh
+0	0	*	*	*	/root/tmp/scripts/watcher.sh
